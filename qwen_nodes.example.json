@@ -1,0 +1,8 @@
+{
+  "positive_prompt": {"node": "REPLACE_ME", "input": "text"},
+  "negative_prompt": {"node": "REPLACE_ME", "input": "text"},
+  "seed": {"node": "REPLACE_ME", "input": "noise_seed"},
+  "width": {"node": "REPLACE_ME", "input": "width"},
+  "height": {"node": "REPLACE_ME", "input": "height"},
+  "filename_prefix": {"node": "REPLACE_ME", "input": "filename_prefix"}
+}

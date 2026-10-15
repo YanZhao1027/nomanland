@@ -1,0 +1,23 @@
+# Local models, private workflows, and generated media
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+qwen_nodes.json
+workflows/*.json
+!workflows/.gitkeep
+generated_storyboards*/
+approved/
+terra_h3_from_approved.jsonl
+*.mp4
+*.mov
+*.webm
+*.ckpt
+*.safetensors
+*.pt
+*.pth
+*.gguf
+.DS_Store
